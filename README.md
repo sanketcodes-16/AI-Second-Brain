@@ -92,7 +92,9 @@ Answer Generation
 
 Ask questions directly from uploaded PDFs.
 
-![Chat Interface](images/chat_interface.png)
+![alt text](screenshots/HP1.png)
+
+![alt text](screenshots/HP2.png)
 
 ---
 
@@ -100,7 +102,8 @@ Ask questions directly from uploaded PDFs.
 
 Manage multiple PDFs, filter searches, and delete documents individually.
 
-![PDF Management](images/pdf_management.png)
+![alt text](screenshots/PDF_U.png)
+
 
 ---
 
@@ -108,7 +111,9 @@ Manage multiple PDFs, filter searches, and delete documents individually.
 
 View the exact chunks retrieved from ChromaDB before answer generation.
 
-![Retrieved Context](images/retrieved_context.png)
+![alt text](screenshots/3_1.png)
+
+![alt text](screenshots/R_D.png)
 
 ---
 
@@ -116,7 +121,9 @@ View the exact chunks retrieved from ChromaDB before answer generation.
 
 Download the entire conversation history.
 
-![Chat Export](images/export_chat.png)
+![alt text](screenshots/C_E.png)
+
+![alt text](screenshots/C_S.png)
 
 ---
 
