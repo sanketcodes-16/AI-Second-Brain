@@ -1,11 +1,5 @@
 # 🧠 AI Second Brain
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-RAG-red)
-![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-green)
-![Groq](https://img.shields.io/badge/LLM-Groq-orange)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 ## 📌 Overview
 
 AI Second Brain is a Multi-PDF Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and ask questions in natural language.
